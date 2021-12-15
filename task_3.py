@@ -1,7 +1,5 @@
 
-number = 3
-
-if number == 0 or number == 1:
+if number//10 == 0:
     print(number, 'процент')
 if 1 < number < 5:
     print(number, 'процента')
